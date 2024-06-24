@@ -1,2 +1,2 @@
 # bootcamp
-test
+nodemon -L index.js

@@ -8,7 +8,7 @@ app.listen(3000, () => {
 
 
 app.get("/", (req, resp) => {
-    resp.send('ayyasfsafy');
+    resp.send('home page');
 })
 app.get("/about", (req, resp) => {
     resp.send('about us and stuff')
